@@ -6,6 +6,6 @@
 Js beginner 
 Java biginner 
 5.No code, yet 
-6.*/sounds of improvement 
+6.sounds of improvement 
 7.incomplete higher education 
 8.B1
